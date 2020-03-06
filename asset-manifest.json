@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jleonardo007/randomquotesmachine/static/css/main.c0ffd346.chunk.css",
+    "main.js": "/jleonardo007/randomquotesmachine/static/js/main.a54b9df0.chunk.js",
+    "main.js.map": "/jleonardo007/randomquotesmachine/static/js/main.a54b9df0.chunk.js.map",
+    "runtime-main.js": "/jleonardo007/randomquotesmachine/static/js/runtime-main.95933fa5.js",
+    "runtime-main.js.map": "/jleonardo007/randomquotesmachine/static/js/runtime-main.95933fa5.js.map",
+    "static/js/2.032cf61d.chunk.js": "/jleonardo007/randomquotesmachine/static/js/2.032cf61d.chunk.js",
+    "static/js/2.032cf61d.chunk.js.map": "/jleonardo007/randomquotesmachine/static/js/2.032cf61d.chunk.js.map",
+    "index.html": "/jleonardo007/randomquotesmachine/index.html",
+    "precache-manifest.677b7cf9c4afc7937552e609011c6087.js": "/jleonardo007/randomquotesmachine/precache-manifest.677b7cf9c4afc7937552e609011c6087.js",
+    "service-worker.js": "/jleonardo007/randomquotesmachine/service-worker.js",
+    "static/css/main.c0ffd346.chunk.css.map": "/jleonardo007/randomquotesmachine/static/css/main.c0ffd346.chunk.css.map",
+    "static/js/2.032cf61d.chunk.js.LICENSE.txt": "/jleonardo007/randomquotesmachine/static/js/2.032cf61d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95933fa5.js",
+    "static/js/2.032cf61d.chunk.js",
+    "static/css/main.c0ffd346.chunk.css",
+    "static/js/main.a54b9df0.chunk.js"
+  ]
+}
